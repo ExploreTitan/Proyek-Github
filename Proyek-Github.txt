@@ -8,3 +8,6 @@ ini dimasukkan code disini document.write("hai");
 Titanic adalah film sekaligus kisah nyata tentang kapal lau yang sama
 dan ini penutupan sebelum selesai
 
+Sasuke adalah musuh bebuyutan naruto sekaligus sahabat terdekatnya
+Kurama membunuh orang tua naruto dan sekaligus akan mmenjadi sahabat dekat nauto di perang dunia shinobi
+
