@@ -4,3 +4,6 @@ Proyek
 3. Ini tiga
 
 ini dimasukkan code disini document.write("hai");
+
+hapus ini ya!
+dan ini penutupan sebelum selesai
